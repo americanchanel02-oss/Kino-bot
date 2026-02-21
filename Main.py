@@ -1,0 +1,4 @@
+TOKEN = "SENING_BOT_TOKEN"   #8599100876:AAGhk-U0gLCKNUAEf5Q1qThzsaAH-WHYmmA
+ADMIN_ID = 123456789         #7257755738
+
+# Bu yerga Telegram bot kodi yoziladi
